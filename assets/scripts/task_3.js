@@ -1,7 +1,6 @@
 "use strict";
 
 console.log('uzduotis 3');
-//DEADLINE 0900h
 
 // 1. Sukurk funkciją didziausiasIsDvieju, kuri priima du skaičius
 // ir gražina didesnį skaičių. Nepamiršk galimybės, 
@@ -11,7 +10,7 @@ console.log('uzduotis 3');
 function didziausiasIsDvieju(num1, num2){
 	if(num1 > num2 ){
 	 didziausiasIsDvieju = num1;
-	} if(num1 < num2){
+	} else if(num1 < num2){
 	 didziausiasIsDvieju = num2;
 	}else {
 		didziausiasIsDvieju = num1;
@@ -115,18 +114,4 @@ function longestWord(str){
 console.log(longestWordSentence(posts));
 
 
-// 5. Parasyti Javascript funkcija kur priima 2 argumentus/parametrus, 
-// simboliu eilute (string) ir raide (string), 
-// kuri paskaiciuotu kiek kartu i funkcija paduotoje 
-// simboliu eiluteje pasikartoja nurodyta raide.
 
-// Ivestis: “w3resource.com”, “o”
-// Rezultatas: 2
-
-function countChar(eilute, raide){
-	let eiluteArray = eilute.split(" ");
-	let r = "";
-	for(let i = 0; i < eiluteArray.length; i++){
-		
-	}
-}

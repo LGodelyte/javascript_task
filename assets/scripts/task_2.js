@@ -2,7 +2,6 @@
 
 console.log('uzduotis2');
 // Javascript-2 uzduotys:
-// DEADLINE: 9:00
 
 // 1. Per mėnesį avių skaičius išauga 4 kartais. 
 // Naudodami WHILE loop ir tris nurodytus kintamuosius, 

@@ -3,8 +3,6 @@
 console.log('JS veikia');
 
 // Javascript užduotis
-// DEADLINE: 9:00
-// atsiusti tik JS faila, tik reikia pakeisti galune i .txt
 
 // Šiuo metu Lietuvoje yra 69 laipsniai pagal Farenheitą, naudodamiesi JavaScript apskaičiuokite kokia temperatūra yra pagal Celsijų.
 
